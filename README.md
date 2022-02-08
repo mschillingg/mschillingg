@@ -1,10 +1,10 @@
 # 🤠 Howdy, I'm Maddie!
 
-📚 I'm a student at The University of Texas at Austin studying Psychology and Business 
+![skyline of the university of texas at austin](https://media-exp1.licdn.com/dms/image/C5616AQGtb99GUG1V1Q/profile-displaybackgroundimage-shrink_350_1400/0/1620264701295?e=1649894400&v=beta&t=46PgUr35-e0tid21RmoRaJ7aIuKec2rHscKqimlioxk)
 
-🧠 I'm interested in the intersection of psychology and business, specifically the implications of behavioral science on employee satisfaction and motivation 
+📚  I'm a student at The University of Texas at Austin studying Psychology and Business 
 
-Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+🧠  I'm interested in the intersection of psychology and business, specifically the implications of behavioral science on employee satisfaction and motivation 
+
+👩‍💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/madeleine-schilling/)
+
